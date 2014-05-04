@@ -51,7 +51,7 @@ mobs:register_mob("mobsplus:mese_monster", {
 		punch_end = 63,
 	}
 })
-mobs:register_spawn("mobsplus:mese_monster", {"default:stone"}, 3, -1, 5000, 3, 0)
+mobs:register_spawn("mobsplus:mese_monster", {"default:stone"}, 3, -1, 5000, 3, 0, "hostile")
 mobs:register_egg("mobsplus","mese_monster","Mese monster")
 
 mobs:register_arrow("mobsplus:mese_arrow", {

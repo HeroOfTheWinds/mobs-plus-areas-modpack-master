@@ -16,6 +16,7 @@ dofile(minetest.get_modpath("mobsplus").."/tree_monster.lua")
 dofile(minetest.get_modpath("mobsplus").."/oerkki.lua")
 dofile(minetest.get_modpath("mobsplus").."/dungeon_master.lua")
 dofile(minetest.get_modpath("mobsplus").."/mese_monster.lua")
+dofile(minetest.get_modpath("mobsplus").."/lava_flan.lua")
 
 
 -- Bucket of milk
